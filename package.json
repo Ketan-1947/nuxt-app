@@ -1,0 +1,19 @@
+{
+  "name": "dnt",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "mongoose": "^9.6.3",
+    "nuxt": "^4.4.7",
+    "uuid": "^14.0.0",
+    "vue": "^3.5.35",
+    "vue-router": "^5.1.0"
+  }
+}
