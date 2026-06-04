@@ -18,4 +18,4 @@ jobs:
       - uses: docker/build-push-action@v5
         with:
           push: true
-          tags: yourdockerhubusername/nuxt-app:latest
+          tags: ketan1947/nuxt-app:latest
