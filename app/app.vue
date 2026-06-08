@@ -6,6 +6,6 @@
 
 <style scoped>
   body{
-    background: #0B151B;
+    background: #1d252b;
   }
 </style>
