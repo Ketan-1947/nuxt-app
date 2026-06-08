@@ -4,8 +4,8 @@
   </div>
 </template>
 
-<style scoped>
-  body{
+<style>
+  html{
     background: #1b2c3a;
   }
 </style>
